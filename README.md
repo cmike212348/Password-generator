@@ -10,3 +10,5 @@ The following images demonstrate the application functionality:
  ![Alt Text](Assets/screenshot2.jpeg)
 
  ![Alt Text](Assets/screenshot3.jpeg)
+
+ Link to deployment: https://cmike212348.github.io/Password-generator/
