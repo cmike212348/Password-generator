@@ -4,12 +4,12 @@ var alphaLower = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m
 var specialChar = ["!", "%", "&", ",", "*", "+", "-", ".", "/", "<", ">", "?","~"];
 var number = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
 
-var confirmLength = "";
+
 var confirmUpperCase;
 var confirmLowerCase;
 var confirmSpecialCharacter;
 var confirmNumericCharacter;
-
+var confirmLength = "";
 
 function generatePassword() {
   var confirmLength = (prompt("How many characters would you like your password to contain?"));
